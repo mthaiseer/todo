@@ -19,9 +19,9 @@ This application enable user to create, edit, delete todo tasks. User also able 
 ### Steps to run 
 1. clone or download zip 
 2. open command line and navigate to todo-backend
-   2.1  mvn spring-boot:run
+   *  mvn spring-boot:run
 3. open command line and navigate to todo-frontend
-   3.1 npm install 
-   3.2 ng serve
+   * npm install 
+   * ng serve
 4. Open application using URL http://localhost:4200/
 
